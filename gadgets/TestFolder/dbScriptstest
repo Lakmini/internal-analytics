@@ -1,7 +1,7 @@
 Salesforce Account
 
 CREATE TABLE `SF_ACCOUNT` (
-  `_timestamp` mediumtext,
+
   `AccountSource` varchar(45) DEFAULT NULL,
   `Account_Classification__c` varchar(45) DEFAULT NULL,
   `Activation_Date_Populated__c` varchar(45) DEFAULT NULL,
